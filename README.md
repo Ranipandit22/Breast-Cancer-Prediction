@@ -23,7 +23,7 @@ Among all models, **SVM** achieved the highest accuracy of **97%**, making it th
 | Libraries/Frameworks  | `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` |
 | Visualization         | 📈 Matplotlib, Seaborn               |
 | Model Evaluation      | ✅ Accuracy Score, Confusion Matrix, Classification Report |
-| Development Tools     | 💻 Jupyter Notebook / VS Code        |
+| Development Tools     | 💻 Google Colab/ VS Code        |
 | Version Control       | 🔗 Git & GitHub                      |
 
 ---
